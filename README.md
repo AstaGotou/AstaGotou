@@ -1,9 +1,9 @@
-# 👋 Hi, I’m AstaGotou! | 👋 Hey, Moi c'est AstaGotou !
+# 👋 Hi, I’m AstaGotou! | 👋 Coucou, je suis AstaGotou !
 🎓 Passionate about Computer Science | 💻 Future Developer  
 
 ---
 
-## 👀 About Me | À propos de moi  
+## 👀 About Me | 👀 À propos de moi  
 - 🖥️ I’m deeply interested in **Computer Science** 
 - ❤️ I love **Japanese & Korean culture**
 - 🎶 Music enthusiast, especially Korean and Japanese Pop/Rock 
@@ -11,12 +11,12 @@
 
 ---
 
-## 💞️ Looking to collaborate on 
+## 💞️ Looking to collaborate on | 💞️ Cherche à collaborer sur
 - Web & software development 🖥️ 
 
 ---
 
-## 📫 How to reach me 
+## 📫 How to reach me | 📫 Me contacter
 - 📧 Email : patoshl.y@outlook.fr
 - 💼 LinkedIn : https://www.linkedin.com/in/patrick-ly-cs67/ 
 
